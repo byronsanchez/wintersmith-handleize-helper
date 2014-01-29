@@ -1,5 +1,9 @@
 # wintersmith-handleize-helper
 
+[![Build Status](https://secure.travis-ci.org/byronsanchez/wintersmith-handleize-helper.png?branch=develop)][travis]
+
+[travis]: https://travis-ci.org/byronsanchez/wintersmith-handleize-helper
+
 wintersmith-handleize-helper is a plugin that registers a handleize function in 
 the `env.helpers` object hash. It returns a handleized version of any string 
 that is passed to it.
